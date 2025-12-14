@@ -1,4 +1,4 @@
-# UNIX Domain Socket – Stock Example
+# server-client – Stock Example
 
 This repository contains a simple system programming example written in C
 using UNIX domain sockets.
